@@ -1,0 +1,1 @@
+C:\Users\user\mcode\tmp\inp_raw.conll   C:\Users\user\mcode\out\out.txt
